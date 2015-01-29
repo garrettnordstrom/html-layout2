@@ -1,0 +1,76 @@
+html, body {
+	height: 100%;
+	width: 80%;
+	overflow: auto;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 110%;
+}
+
+.container {
+	height: 20%;
+	width: 100%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+}
+.box {
+	height: 100%;
+	width: 30%;
+}
+
+.red {
+	background-color: #D0021B
+}
+
+.blue {
+	background: #4A90E2
+}
+
+.black {
+	background-color: #4A4A4A
+}
+
+.Mid-text {
+	height: 30%;
+	width: 30%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+.containerMid {
+	height: 40%;
+	width: 100%;
+	margin: 15px;
+	float: right;
+}
+
+
+.squ {
+	height: 100%;
+	width:  30%;
+}
+
+.containerRec {
+	height: 20%;
+	width: 100%;
+	margin: 15px;
+    float: right;
+}
+
+.box_2 {
+	height: 100%;
+	width: 20%;
+	float: right;
+}
+
+.box_3 {
+	height: 100%;
+	width: 70%;
+	margin: 0 auto;
+}
+
